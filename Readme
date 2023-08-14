@@ -1,0 +1,10 @@
+Automação Web BugBank
+
+URL: https://bugbank.netlify.app/
+
+Cenário:
+
+Criar duas contas com Saldo e salvar os seus dados.
+Acessar uma conta e realizar uma transferência de valor para outra.
+Validar a saída e entrada de valores das contas envolvidas.
+
